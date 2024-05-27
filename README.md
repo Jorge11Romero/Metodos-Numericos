@@ -10,19 +10,19 @@
 
 # MÉTODO DE UN PASO
 
-[- Descirpción](TEMA_5/Método%20de%20un%20paso/Descripción.md)
+[- Descirpción](TEMA_6/Método%20de%20un%20paso/Descripción.md)
 
-[- Algoritmo](TEMA_5/Método%20de%20un%20paso/Algoritmo.md)
+[- Algoritmo](TEMA_6/Método%20de%20un%20paso/Algoritmo.md)
 
-[- Implementación](TEMA_5/Método%20de%20un%20paso/Implementación.md)
+[- Implementación](TEMA_6/Método%20de%20un%20paso/Implementación.md)
 
-[- Ejercicio 1](TEMA_5/Método%20de%20un%20paso/Ejercicio%201.md)
+[- Ejercicio 1](TEMA_6/Método%20de%20un%20paso/Ejercicio%201.md)
 
-[- Ejercicio 2](TEMA_5/Método%20de%20un%20paso/Ejercicio%202.md)
+[- Ejercicio 2](TEMA_6/Método%20de%20un%20paso/Ejercicio%202.md)
 
-[- Ejercicio 3](TEMA_5/Método%20de%20un%20paso/Ejercicio%203.md)
+[- Ejercicio 3](TEMA_6/Método%20de%20un%20paso/Ejercicio%203.md)
 
-[- Ejercicio 4](TEMA_5/Método%20de%20un%20paso/Ejercicio%204.md)
+[- Ejercicio 4](TEMA_6/Método%20de%20un%20paso/Ejercicio%204.md)
 
 
 # MÉTODO DE PASOS MÚLTIPLES
