@@ -1,4 +1,4 @@
-### Ejercicio 2:
+### Ejercicio 3:
 
 ![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/5a1b88c7-c99f-49fc-9475-d38fa719077e)
 
