@@ -3,7 +3,8 @@
 
 ### Resuelto analíticamente:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/2c24c0d1-80c9-4203-a5bd-b91d583d2751)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/d5b49d04-c783-4538-8499-19ebc48dca4f)
+
 
 ### Resuelto por código:
 
