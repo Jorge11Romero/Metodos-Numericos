@@ -1,8 +1,3 @@
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/2bac7adc-a9f2-4959-94e4-c3ba4a0f0fce)
+Un método en varios pasos o continuo, utiliza los valores de varios pasos calculados con anterioridad para obtener el valor de y n+1 Hay numerosas fórmulas aplicables en la aproximación de soluciones de ecuaciones diferenciales.
 
-
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/f697634b-c837-455b-9120-d51297ea1821)
-
-
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/8667b78e-ccaa-419c-9db6-e672d5513a25)
-
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/de00e0a6-2ab4-40f4-a61a-eb2020e9881e)
