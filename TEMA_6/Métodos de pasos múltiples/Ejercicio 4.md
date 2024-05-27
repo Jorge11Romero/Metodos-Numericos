@@ -1,41 +1,60 @@
-Ejercicio 4: Resuelve el siguiente problema
+### Ejercicio 3:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/962d7afc-daaa-4d59-bdee-17f4c797f623)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/e4488854-4353-4aa6-8d34-6837f337b0b3)
 
+### Resuelto analíticamente:
 
-Resultado para 200 tramos:
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/c1d300e1-1ea4-4595-8b4c-fe81ba825414)
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/dfac6172-6788-4f54-bfba-af6915fc1597)
+### Resuelto por código:
 
-
-Resultado por código en Python para 200 tramos:
-
-    import numpy as np
-    import matplotlib.pyplot as plt
+    from typing import Callable
     
-    fx = lambda x: np.sqrt(x)*np.sin(x)
+    def euler(x0: float, y0: float, h: float, n: int, f: Callable[[float], float]) -> float:
+        xn = x0
+        yn = y0
     
-    a = 5
-    b = 30
-    tramos = 200
+        for _ in range(n):
+            yn = yn + h * f(xn)
+            xn = xn + h
     
-    h = (b-a)/tramos
-    xi = a
-    suma = fx(xi)
-    for i in range(0,tramos-1,1):
-        xi = xi + h
-        suma = suma + 2*fx(xi)
-    suma = suma + fx(b)
-    area = h*(suma/2)
+        return yn
     
-    print ('Tramos: ', tramos)
-    print ('Integral: ', area)
+    def runge_kutta(x0: float, y0: float, h: float, n: int, f: Callable[[float], float]) -> float:
+        xn = x0
+        yn = y0
     
-    # Redondear la variable area a tres decimales
-    area = round(area, 3)
-    print ('Integral limitada: ', area)
+        for _ in range(n):
+            k1 = h * f(xn)
+            k2 = h * f(xn + h / 2)
+            k3 = h * f(xn + h / 2)
+            k4 = h * f(xn + h)
+    
+            yn = yn + (k1 + 2 * k2 + 2 * k3 + k4) / 6
+            xn = xn + h
+    
+        return yn
+    
+    def main():
+        # Valores iniciales
+        x0 = 0  # Valor inicial de x
+        y0 = 1  # Valor inicial de y
+        h = 0.1  # Tamaño del paso
+        n = 10  # Número de pasos
+    
+        # Función diferencial dy/dx = f(x, y)
+        f = lambda x: x + y0  # Ejemplo simple, y' = x + y
+    
+        # Método de Euler
+        resultado_euler = euler(x0, y0, h, n, f)
+        print("Resultado utilizando el método de Euler:", resultado_euler)
+    
+        # Método de Runge-Kutta
+        resultado_rk = runge_kutta(x0, y0, h, n, f)
+        print("Resultado utilizando el método de Runge-Kutta:", resultado_rk)
+    
+    if __name__ == "__main__":
+        main()
 
 
-Respuesta por código para 200 tramos:
-
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/bb7d5b60-56e6-4043-afe1-3892c18f03fb)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/5ed8c0dd-dbf3-4b1b-87ad-8333bca52804)
