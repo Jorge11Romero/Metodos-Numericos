@@ -1,84 +1,61 @@
-Ejercicio 1: Resuelve el siguiente problema
+### Ejercicio 1:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/ddaccdbe-ea7a-4e88-a986-f74aaa8ad1b6)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/daecee42-08dc-4417-9d16-be79d211e2ed)
 
-Resultado para 4 tramos: 
+### Resuelto analíticamente:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/443bcfb3-c42c-4ee4-a03a-43449a40a132)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/762e1b2d-927f-4cc0-82a4-69cc7ece86d5)
 
-Resultado para 128 tramos:
+### Resuelto por código:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/eff44f53-9daf-4645-b205-b132813eea2b)
-
-
-
-Resultado por código en Python para 4 tramos:
-
-    import numpy as np
-    import matplotlib.pyplot as plt
+    def euler(x0, y0, h, n, f):
+        xn = x0
+        yn = y0
     
-    fx = lambda x: np.sqrt(x)*np.sin(x)
+        for _ in range(n):
+            yn = yn + h * f(yn)
+            xn = xn + h
     
-    a = 1
-    b = 3
-    tramos = 4
+        return yn
     
-    h = (b-a)/tramos
-    xi = a
-    suma = fx(xi)
-    for i in range(0,tramos-1,1):
-        xi = xi + h
-        suma = suma + 2*fx(xi)
-    suma = suma + fx(b)
-    area = h*(suma/2)
+    def runge_kutta(x0, y0, h, n, f):
+        xn = x0
+        yn = y0
     
-    # Redondear la variable area a tres decimales
+        for _ in range(n):
+            k1 = h * f(yn)
+            k2 = h * f(yn + k1 / 2)
+            k3 = h * f(yn + k2 / 2)
+            k4 = h * f(yn + k3)
     
+            yn = yn + (k1 + 2 * k2 + 2 * k3 + k4) / 6
+            xn = xn + h
     
-    print ('Tramos: ', tramos)
-    print ('Integral: ', area)
+        return yn
     
-    area = round(area, 3)
-    print ('Integral limitada: ', area)
+    def main():
+        # Nuevos valores iniciales y parámetros
+        x0 = 0  # Valor inicial de x
+        y0 = 2  # Nuevo valor inicial de y
+        h = 0.1  # Nuevo tamaño del paso
+        n = 10  # Nuevo número de pasos
+    
+        # Nueva función diferencial dy/dx = f(x, y)
+        f = lambda y: -0.5 * y  # Nueva función, y' = -0.5y
+    
+        # Método de Euler
+        resultado_euler = euler(x0, y0, h, n, f)
+        print("Resultado utilizando el método de Euler:", resultado_euler)
+    
+        # Método de Runge-Kutta
+        resultado_rk = runge_kutta(x0, y0, h, n, f)
+        print("Resultado utilizando el método de Runge-Kutta:", resultado_rk)
+    
+    if __name__ == "__main__":
+        main()
 
-Respuesta por código para 4 tramos:
 
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/1e432ce6-6e42-425c-9fa1-e7a35752a864)
+ ![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/ad06b462-222b-4f42-a184-ec7b4acdbcf0)
 
-
----------------------------------------------------------------------
-
-Resultado por código en Python para 4 tramos:
-
-    import numpy as np
-    import matplotlib.pyplot as plt
-    
-    fx = lambda x: np.sqrt(x)*np.sin(x)
-    
-    a = 1
-    b = 3
-    tramos = 128
-    
-    h = (b-a)/tramos
-    xi = a
-    suma = fx(xi)
-    for i in range(0,tramos-1,1):
-        xi = xi + h
-        suma = suma + 2*fx(xi)
-    suma = suma + fx(b)
-    area = h*(suma/2)
-    
-    # Redondear la variable area a tres decimales
-    
-    
-    print ('Tramos: ', tramos)
-    print ('Integral: ', area)
-    
-    area = round(area, 3)
-    print ('Integral limitada: ', area)
-
-Respuesta por código para 128 tramos:
-
-![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/fd35bc0d-9563-44d6-9f4d-f60d3af78843)
 
 
