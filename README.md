@@ -8,7 +8,7 @@
 
 ## TEMA 6: Solución de Ecuaciones Diferenciales
 
-# MÉTODO DE UN PASO
+### MÉTODO DE UN PASO
 
 [- Descirpción](TEMA_6/Método%20de%20un%20paso/Descripción.md)
 
@@ -25,7 +25,7 @@
 [- Ejercicio 4](TEMA_6/Método%20de%20un%20paso/Ejercicio%204.md)
 
 
-# MÉTODO DE PASOS MÚLTIPLES
+### MÉTODO DE PASOS MÚLTIPLES
 
 [- Descirpción](TEMA_6/Métodos%20de%20pasos%20múltiples/Descripción.md)
 
