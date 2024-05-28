@@ -4,6 +4,39 @@
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
+### MÉTODO DE INTERPOLACIÓN LAGRANGE
+
+[- Descirpción](TEMA_5/Interpolación%20Lagrange/Descripción.md)
+
+[- Algoritmo](TEMA_5/Interpolación%20Lagrange/Algoritmo.md)
+
+[- Implementación](TEMA_5/Interpolación%20Lagrange/Implementación.md)
+
+[- Ejercicio 1](TEMA_5/Interpolación%20Lagrange/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_5/Interpolación%20Lagrange/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_5/Interpolación%20Lagrange/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_5/Interpolación%20Lagrange/Ejercicio%204.md)
+
+
+### MÉTODO DE INTERPOLACIÓN NEWTON
+
+[- Descirpción](TEMA_5/Interpolación%20Newton/Descripción.md)
+
+[- Algoritmo](TEMA_5/Interpolación%20Newton/Algoritmo.md)
+
+[- Implementación](TEMA_5/Interpolación%20Newton/Implementación.md)
+
+[- Ejercicio 1](TEMA_5/Interpolación%20Newton/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_5/Interpolación%20Newton/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_5/Interpolación%20Newton/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_5/Interpolación%20Newton/Ejercicio%204.md)
+
 
 
 ## TEMA 6: Solución de Ecuaciones Diferenciales
