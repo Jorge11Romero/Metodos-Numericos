@@ -174,23 +174,23 @@
 
 ### - MÉTODO DE TRAPECIO
 
-[- Descirpción](TEMA_4/Metodo%20Trapecio/Descripción.md)
+[- Descirpción](TEMA_4/Método%20Trapecio/Descripción.md)
 
-[- Algoritmo](TEMA_4/Metodo%20Trapecio/Algoritmo.md)
+[- Algoritmo](TEMA_4/Método%20Trapecio/Algoritmo.md)
 
-[- Implementación](TEMA_4/Metodo%20Trapecio/Implementación.py)
+[- Implementación](TEMA_4/Método%20Trapecio/Implementación.py)
 
-[- Ejercicio 1](TEMA_4/Metodo%20Trapecio/Ejercicio%201.md)
+[- Ejercicio 1](TEMA_4/Método%20Trapecio/Ejercicio%201.md)
 
-[- Ejercicio 2](TEMA_4/Metodo%20Trapecio/Ejercicio%202.md)
+[- Ejercicio 2](TEMA_4/Método%20Trapecio/Ejercicio%202.md)
 
-[- Ejercicio 3](TEMA_4/Metodo%20Trapecio/Ejercicio%203.md)
+[- Ejercicio 3](TEMA_4/Método%20Trapecio/Ejercicio%203.md)
 
-[- Ejercicio 4](TEMA_4/Metodo%20Trapecio/Ejercicio%204.md)
+[- Ejercicio 4](TEMA_4/Método%20Trapecio/Ejercicio%204.md)
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
-### MÉTODO DE INTERPOLACIÓN LAGRANGE
+### - MÉTODO DE INTERPOLACIÓN LAGRANGE
 
 [- Descirpción](TEMA_5/Interpolación%20Lagrange/Descripción.md)
 
@@ -207,7 +207,7 @@
 [- Ejercicio 4](TEMA_5/Interpolación%20Lagrange/Ejercicio%204.md)
 
 
-### MÉTODO DE INTERPOLACIÓN NEWTON
+### - MÉTODO DE INTERPOLACIÓN NEWTON
 
 [- Descirpción](TEMA_5/Interpolación%20Newton/Descripción.md)
 
@@ -227,7 +227,7 @@
 
 ## TEMA 6: Solución de Ecuaciones Diferenciales
 
-### MÉTODO DE UN PASO
+### - MÉTODO DE UN PASO
 
 [- Descirpción](TEMA_6/Método%20de%20un%20paso/Descripción.md)
 
@@ -244,7 +244,7 @@
 [- Ejercicio 4](TEMA_6/Método%20de%20un%20paso/Ejercicio%204.md)
 
 
-### MÉTODO DE PASOS MÚLTIPLES
+### - MÉTODO DE PASOS MÚLTIPLES
 
 [- Descirpción](TEMA_6/Métodos%20de%20pasos%20múltiples/Descripción.md)
 
