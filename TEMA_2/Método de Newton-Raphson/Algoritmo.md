@@ -1,2 +1,3 @@
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/c90bd4e0-9bda-465b-aae3-3603cb59002a)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/af4244d5-5121-4877-abcb-4ccf523f7ee8)
+
