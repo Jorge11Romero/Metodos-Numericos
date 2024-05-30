@@ -1,7 +1,23 @@
 # Metodos Numericos
  Repositorio de métodos numéricos: Implementación eficientes en de Python y JAVA para resolver problemas de análisis numérico en ingeniería y ciencias. Actualizado conforme se soliciten nuevos métodos. ¡Contribuye y sugiere!
 
+# CONTENIDO
 
+## TEMA 2: Método de Solución de Ecuaciones
+
+### MÉTODO DE BISECCIÓN
+
+[- Definición](TEMA_2/Método$20Bisección/Definición)
+
+[- Algoritmo](TEMA_2/Método$20Bisección/Algoritmo)
+
+[- Ejercicio 1](TEMA_2/Método%20Bisección/Ejercicio_1)
+
+[- Ejercicio 2](TEMA_2/Método%20Bisección/Ejercicio_2)
+
+[- Ejercicio 3](TEMA_2/Método%20Bisección/Ejercicio_3)
+
+[- Ejercicio 4](TEMA_2/Método%20Bisección/Ejercicio_4)
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
