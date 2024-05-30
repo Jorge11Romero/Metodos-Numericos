@@ -138,6 +138,56 @@
 
 [- Ejercicio 4](TEMA_3/Método%20Jacobi/Ejercicio%204.md)
 
+## TEMA 4: Diferenciación e Integración Numérica
+
+### - MÉTODO DE SIMPSON 1/3
+
+[- Descirpción](TEMA_4/Metodo%20Simpson%2013/Descripción.md)
+
+[- Algoritmo](TEMA_4/Metodo%20Simpson%2013/Algoritmo.md)
+
+[- Implementación](TEMA_4/Metodo%20Simpson%2013/Implementación.py)
+
+[- Ejercicio 1](TEMA_4/Metodo%20Simpson%2013/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_4/Metodo%20Simpson%2013/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_4/Metodo%20Simpson%2013/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_4/Metodo%20Simpson%2013/Ejercicio%204.md)
+
+### - MÉTODO DE SIMPSON 3/8
+
+[- Descirpción](TEMA_4/Metodo%20Simpson%2038/Descripción.md)
+
+[- Algoritmo](TEMA_4/Metodo%20Simpson%2038/Algoritmo.md)
+
+[- Implementación](TEMA_4/Metodo%20Simpson%2038/Implementación.py)
+
+[- Ejercicio 1](TEMA_4/Metodo%20Simpson%2038/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_4/Metodo%20Simpson%2038/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_4/Metodo%20Simpson%2038/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_4/Metodo%20Simpson%2038/Ejercicio%204.md)
+
+### - MÉTODO DE TRAPECIO
+
+[- Descirpción](TEMA_4/Metodo%20Trapecio/Descripción.md)
+
+[- Algoritmo](TEMA_4/Metodo%20Trapecio/Algoritmo.md)
+
+[- Implementación](TEMA_4/Metodo%20Trapecio/Implementación.py)
+
+[- Ejercicio 1](TEMA_4/Metodo%20Trapecio/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_4/Metodo%20Trapecio/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_4/Metodo%20Trapecio/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_4/Metodo%20Trapecio/Ejercicio%204.md)
+
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
 ### MÉTODO DE INTERPOLACIÓN LAGRANGE
