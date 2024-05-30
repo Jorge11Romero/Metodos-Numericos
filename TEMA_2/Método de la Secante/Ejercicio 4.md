@@ -1,11 +1,11 @@
 ### Ejercicio 4:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/35bae813-f819-47df-bc09-04f26e0d4346)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/abda792c-178c-4bcd-8f00-8d8d3d92457e)
 
 ### Resuelto analíticamente:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/fa5b3e45-3e86-4bb5-8272-cf5dacc4cbae)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/a4ce72ea-e1be-44b7-98fd-400f01ba4094)
 
 ### Resuelto por código:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/a37a3753-3ec7-4f26-916e-e6df4bf0ebdd)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/d03016f4-6f90-420a-a02a-874b902ba471)
