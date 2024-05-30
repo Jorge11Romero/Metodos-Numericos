@@ -1,1 +1,1 @@
-Los métodos de búsqueda incremental aprovechan la característica localizando un intervalo en el que la función cambie de signo. Entonces, El método de bisección, también conocido como de corte binario, de partición de intervalos o de Bolzano es un algoritmo de búsqueda de raíces que funciona dividiendo repetidamente un intervalo en dos subintervalos y seleccionando el subintervalo en el cual ocurre un cambio de signo de la función.
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/01cdfdb5-7ee2-47ae-a3e7-8bc21c62ba43)
