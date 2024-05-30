@@ -13,13 +13,13 @@
 
 [- Implementación](TEMA_2/Método%20de%20Bisección/Implementación.java)
 
-[- Ejercicio 1](TEMA_2/Método%20de%20Bisección/Ejercicio_1.md)
+[- Ejercicio 1](TEMA_2/Método%20de%20Bisección/Ejercicio%201.md)
 
-[- Ejercicio 2](TEMA_2/Método%20de%20Bisección/Ejercicio_2.md)
+[- Ejercicio 2](TEMA_2/Método%20de%20Bisección/Ejercicio%202.md)
 
-[- Ejercicio 3](TEMA_2/Método%20de%20Bisección/Ejercicio_3.md)
+[- Ejercicio 3](TEMA_2/Método%20de%20Bisección/Ejercicio%203.md)
 
-[- Ejercicio 4](TEMA_2/Método%20de%20Bisección/Ejercicio_4.md)
+[- Ejercicio 4](TEMA_2/Método%20de%20Bisección/Ejercicio%204.md)
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
