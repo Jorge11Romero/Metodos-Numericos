@@ -7,7 +7,7 @@
 
 ### MÉTODO DE BISECCIÓN
 
-[- Definición](TEMA_2/Método%20de%20Bisección/Definición.md)
+[- Descripción](TEMA_2/Método%20de%20Bisección/Descripción.md)
 
 [- Algoritmo](TEMA_2/Método%20de%20Bisección/Algoritmo.md)
 
