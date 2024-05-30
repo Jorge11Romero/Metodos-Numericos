@@ -1,4 +1,3 @@
-Código en Python:
 
            import sympy as sp
         
