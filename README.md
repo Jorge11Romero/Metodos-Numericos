@@ -196,7 +196,7 @@
 
 [- Algoritmo](TEMA_5/Interpolación%20Lagrange/Algoritmo.md)
 
-[- Implementación](TEMA_5/Interpolación%20Lagrange/Implementación.md)
+[- Implementación](TEMA_5/Interpolación%20Lagrange/Implementación.py)
 
 [- Ejercicio 1](TEMA_5/Interpolación%20Lagrange/Ejercicio%201.md)
 
@@ -213,7 +213,7 @@
 
 [- Algoritmo](TEMA_5/Interpolación%20Newton/Algoritmo.md)
 
-[- Implementación](TEMA_5/Interpolación%20Newton/Implementación.md)
+[- Implementación](TEMA_5/Interpolación%20Newton/Implementación.py)
 
 [- Ejercicio 1](TEMA_5/Interpolación%20Newton/Ejercicio%201.md)
 
@@ -233,7 +233,7 @@
 
 [- Algoritmo](TEMA_6/Método%20de%20un%20paso/Algoritmo.md)
 
-[- Implementación](TEMA_6/Método%20de%20un%20paso/Implementación.md)
+[- Implementación](TEMA_6/Método%20de%20un%20paso/Implementación.py)
 
 [- Ejercicio 1](TEMA_6/Método%20de%20un%20paso/Ejercicio%201.md)
 
@@ -250,7 +250,7 @@
 
 [- Algoritmo](TEMA_6/Métodos%20de%20pasos%20múltiples/Algoritmo.md)
 
-[- Implementación](TEMA_6/Métodos%20de%20pasos%20múltiples/Implementación.md)
+[- Implementación](TEMA_6/Métodos%20de%20pasos%20múltiples/Implementación.py)
 
 [- Ejercicio 1](TEMA_6/Métodos%20de%20pasos%20múltiples/Ejercicio%201.md)
 
