@@ -7,17 +7,17 @@
 
 ### MÉTODO DE BISECCIÓN
 
-[- Definición](TEMA_2/Método$20Bisección/Definición)
+[- Definición](TEMA_2/Método%20de%20Bisección/Definición)
 
-[- Algoritmo](TEMA_2/Método$20Bisección/Algoritmo)
+[- Algoritmo](TEMA_2/Método%20de%20Bisección/Algoritmo)
 
-[- Ejercicio 1](TEMA_2/Método%20Bisección/Ejercicio_1)
+[- Ejercicio 1](TEMA_2/Método%20de%20Bisección/Ejercicio_1)
 
-[- Ejercicio 2](TEMA_2/Método%20Bisección/Ejercicio_2)
+[- Ejercicio 2](TEMA_2/Método%20de%20Bisección/Ejercicio_2)
 
-[- Ejercicio 3](TEMA_2/Método%20Bisección/Ejercicio_3)
+[- Ejercicio 3](TEMA_2/Método%20de%20Bisección/Ejercicio_3)
 
-[- Ejercicio 4](TEMA_2/Método%20Bisección/Ejercicio_4)
+[- Ejercicio 4](TEMA_2/Método%20de%20Bisección/Ejercicio_4)
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
