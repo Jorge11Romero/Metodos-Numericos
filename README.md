@@ -5,7 +5,7 @@
 
 ## TEMA 2: Método de Solución de Ecuaciones
 
-### MÉTODO DE BISECCIÓN
+### - MÉTODO DE BISECCIÓN
 
 [- Descripción](TEMA_2/Método%20de%20Bisección/Descripción.md)
 
@@ -21,7 +21,7 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Bisección/Ejercicio%204.md)
 
-### MÉTODO DE LA FALSA POSICIÓN
+### - MÉTODO DE LA FALSA POSICIÓN
 
 [- Descripción](TEMA_2/Método%20de%20Falsa%20Posición/Descripción.md)
 
@@ -37,7 +37,7 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Falsa%20Posición/Ejercicio%204.md)
 
-### MÉTODO DE NEWTON-RAPHSON
+### - MÉTODO DE NEWTON-RAPHSON
 
 [- Descripción](TEMA_2/Método%20de%20Newton-Raphson/Descripción.md)
 
@@ -53,7 +53,7 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%204.md)
 
-### MÉTODO DE LA SECANTE
+### - MÉTODO DE LA SECANTE
 
 [- Descripción](TEMA_2/Método%20de%20la%20Secante/Descripción.md)
 
@@ -68,6 +68,75 @@
 [- Ejercicio 3](TEMA_2/Método%20de%20la%20Secante/Ejercicio%203.md)
 
 [- Ejercicio 4](TEMA_2/Método%20de%20la%20Secante/Ejercicio%204.md)
+
+## TEMA 3: Método de Solución de Sistemas de Ecuaciones
+
+### - ELIMINACIÓN GAUSSIANA
+
+[- Descirpción](TEMA_3/Eliminación%20Gaussiana/Descripción.md)
+
+[- Algoritmo](TEMA_3/Eliminación%20Gaussiana/Algoritmo.md)
+
+[- Implementación](TEMA_3/Eliminación%20Gaussiana/Implementación.java)
+
+[- Ejercicio 1](TEMA_3/Eliminación%20Gaussiana/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_3/Eliminación%20Gaussiana/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_3/Eliminación%20Gaussiana/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_3/Eliminación%20Gaussiana/Ejercicio%203.md)
+
+[- Problema cotidiano](TEMA_3/Eliminación%20Gaussiana/Problema%20cotidiano.md)
+
+### - GAUSS-JORDAN
+
+[- Descirpción](TEMA_3/Gauss-Jordan/Descripción.md)
+
+[- Algoritmo](TEMA_3/Gauss-Jordan/Algoritmo.java)
+
+[- Implementación](TEMA_3/Gauss-Jordan/Implementación.md)
+
+[- Ejercicio 1](TEMA_3/Gauss-Jordan/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_3/Gauss-Jordan/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_3/Gauss-Jordan/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_3/Gauss-Jordan/Ejercicio%204.md)
+
+
+### - GAUSS-SEIDEL
+
+[- Descirpción](TEMA_3/Gauss-Seidel/Descipción.md)
+
+[- Algoritmo](TEMA_3/Gauss-Seidel/Algoritmo.md)
+
+[- Implementación](TEMA_3/Gauss-Seidel/Implementación.java)
+
+[- Ejercicio 1](TEMA_3/Gauss-Seidel/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_3/Gauss-Seidel/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_3/Gauss-Seidel/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_3/Gauss-Seidel/Ejercicio%204.md)
+
+### MÉTODO JACOBI
+
+[- Descirpción](TEMA_3/Método%20Jacobi/Descripción.md)
+
+[- Algoritmo](TEMA_3/Método%20Jacobi/Algoritmo.java)
+
+[- Implementación](TEMA_3/Método%20Jacobi/Implementación.md)
+
+[- Ejercicio 1](TEMA_3/Método%20Jacobi/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_3/Método%20Jacobi/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_3/Método%20Jacobi/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_3/Método%20Jacobi/Ejercicio%204.md)
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
