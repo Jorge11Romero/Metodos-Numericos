@@ -37,7 +37,7 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Falsa%20Posición/Ejercicio%204.md)
 
-### MÉTODO DE Newton-Raphson
+### MÉTODO DE NEWTON-RAPHSON
 
 [- Descripción](TEMA_2/Método%20de%20Newton-Raphson/Descripción.md)
 
@@ -53,7 +53,7 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%204.md)
 
-### MÉTODO DE SECANTE
+### MÉTODO DE LA SECANTE
 
 [- Descripción](TEMA_2/Método%20de%20la%20Secante/Descripción.md)
 
