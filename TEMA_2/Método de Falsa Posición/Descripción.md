@@ -1,1 +1,5 @@
-Los métodos de búsqueda incremental aprovechan la característica localizando un intervalo en el que la función cambie de signo. Entonces, El método de bisección, también conocido como de corte binario, de partición de intervalos o de Bolzano es un algoritmo de búsqueda de raíces que funciona dividiendo repetidamente un intervalo en dos subintervalos y seleccionando el subintervalo en el cual ocurre un cambio de signo de la función.
+El método de la falsa posición es un algoritmo para encontrar una aproximación de una raíz de una función continua 𝑓 (𝑥) ) utilizando una combinación de la bisección y la interpolación lineal.
+
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/30aad487-b2ee-4420-a625-01602f7b2978)
+
+Representación gráfica delmétodo de la falsa posición. Con los triángulos semejantes sombreados se obtiene la fórmula para el método.
