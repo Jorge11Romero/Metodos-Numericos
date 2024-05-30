@@ -37,6 +37,22 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Falsa%20Posición/Ejercicio%204.md)
 
+### MÉTODO DE Newton-Raphson
+
+[- Descripción](TEMA_2/Método%20de%20Newton-Raphson/Descripción.md)
+
+[- Algoritmo](TEMA_2/Método%20de%20Newton-Raphson/Algoritmo.md)
+
+[- Implementación](TEMA_2/Método%20de%20Newton-Raphson/Implementación.java)
+
+[- Ejercicio 1](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%204.md)
+
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
 ### MÉTODO DE INTERPOLACIÓN LAGRANGE
