@@ -1,3 +1,1 @@
-El polinomio de interpolación de Lagrange es simplemente una reformulación del polinomio de Newton que evita el cálculo de las diferencias divididas:
-
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/cf03a767-579c-4c66-992f-343c793c7e22)
+Los métodos de búsqueda incremental aprovechan la característica localizando un intervalo en el que la función cambie de signo. Entonces, El método de bisección, también conocido como de corte binario, de partición de intervalos o de Bolzano es un algoritmo de búsqueda de raíces que funciona dividiendo repetidamente un intervalo en dos subintervalos y seleccionando el subintervalo en el cual ocurre un cambio de signo de la función.
