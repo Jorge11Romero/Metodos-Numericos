@@ -1,12 +1,13 @@
 ### Ejercicio 2:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/c3935eb4-3399-4725-8235-3bffc0fe105f)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/50c521ff-b235-4471-ab00-c2df9832029f)
 
 ### Resuelto analíticamente:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/1490a765-79e8-41dd-9735-18d90c82ea64)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/1e6fe4df-c0e3-475c-bb4e-b13da352dfbc)
 
 ### Resuelto por código:
 
-![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/59587b07-87c0-4490-8808-0aa27b43445d)
+![image](https://github.com/Jorge11Romero/Metodos-Numericos/assets/147437900/bf9bbcee-1057-4a4d-ba48-d82660a8fe8c)
+
 
