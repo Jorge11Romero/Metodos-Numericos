@@ -1,13 +1,15 @@
-public class Biseccion {
+    public class FalsaPosicion {
+    
     
     public static double funcion(double x) {
-        return x * x - 4;
+        return 4 * x * x - 5 * x;
     }
 
-    public static double biseccion(double a, double b, double tolerancia) {
+    public static double falsaPosicion(double a, double b, double tolerancia) {
         double c = a;
-        while ((b - a) >= tolerancia) {
-            c = (a + b) / 2;
+        while (Math.abs(b - a) >= tolerancia) {
+            
+            c = a - (funcion(a) * (b - a)) / (funcion(b) - funcion(a));
             
             if (funcion(c) == 0.0) {
                 break;
@@ -21,8 +23,9 @@ public class Biseccion {
     }
 
     public static void main(String[] args) {
-        double a = 0, b = 3, tolerancia = 0.0001;
-        double raiz = biseccion(a, b, tolerancia);
-        System.out.println("La raíz es: " + raiz);
+        double a = 1, b = 1.6, tolerancia = 0.0001;
+        double raiz = falsaPosicion(a, b, tolerancia);
+        
+        System.out.printf("La raíz es: %.4f%n", raiz);
     }
 }
