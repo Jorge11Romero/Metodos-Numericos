@@ -1,7 +1,4 @@
 
-El método de eliminación Gaussiana es una técnica fundamental en el ámbito del álgebra lineal, utilizado para resolver sistemas de ecuaciones lineales. 
-Este método, también conocido como eliminación de Gauss, busca transformar un sistema de ecuaciones lineales en uno equivalente más simple, lo que permite encontrar fácilmente las soluciones.
-
 ![image](https://github.com/Jorge11Romero/M-todos-Num-ricos/assets/147437900/1f8ea584-6fb3-41f6-9334-cb8191ee8a57)
 
 Pasos principales:
