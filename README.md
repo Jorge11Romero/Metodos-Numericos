@@ -7,17 +7,19 @@
 
 ### MÉTODO DE BISECCIÓN
 
-[- Definición](TEMA_2/Método%20de%20Bisección/Definición)
+[- Definición](TEMA_2/Método%20de%20Bisección/Definición.md)
 
-[- Algoritmo](TEMA_2/Método%20de%20Bisección/Algoritmo)
+[- Algoritmo](TEMA_2/Método%20de%20Bisección/Algoritmo.md)
 
-[- Ejercicio 1](TEMA_2/Método%20de%20Bisección/Ejercicio_1)
+[- Implementación](TEMA_2/Método%20de%20Bisección/Implementación.java)
 
-[- Ejercicio 2](TEMA_2/Método%20de%20Bisección/Ejercicio_2)
+[- Ejercicio 1](TEMA_2/Método%20de%20Bisección/Ejercicio_1.md)
 
-[- Ejercicio 3](TEMA_2/Método%20de%20Bisección/Ejercicio_3)
+[- Ejercicio 2](TEMA_2/Método%20de%20Bisección/Ejercicio_2.md)
 
-[- Ejercicio 4](TEMA_2/Método%20de%20Bisección/Ejercicio_4)
+[- Ejercicio 3](TEMA_2/Método%20de%20Bisección/Ejercicio_3.md)
+
+[- Ejercicio 4](TEMA_2/Método%20de%20Bisección/Ejercicio_4.md)
 
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
