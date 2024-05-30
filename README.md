@@ -53,6 +53,22 @@
 
 [- Ejercicio 4](TEMA_2/Método%20de%20Newton-Raphson/Ejercicio%204.md)
 
+### MÉTODO DE SECANTE
+
+[- Descripción](TEMA_2/Método%20de%20la%20Secante/Descripción.md)
+
+[- Algoritmo](TEMA_2/Método%20de%20la%20Secante/Algoritmo.md)
+
+[- Implementación](TEMA_2/Método%20de%20la%20Secante/Implementación.java)
+
+[- Ejercicio 1](TEMA_2/Método%20de%20la%20Secante/Ejercicio%201.md)
+
+[- Ejercicio 2](TEMA_2/Método%20de%20la%20Secante/Ejercicio%202.md)
+
+[- Ejercicio 3](TEMA_2/Método%20de%20la%20Secante/Ejercicio%203.md)
+
+[- Ejercicio 4](TEMA_2/Método%20de%20la%20Secante/Ejercicio%204.md)
+
 ## TEMA 5: Interpolación y Ajuste de Funciones
 
 ### MÉTODO DE INTERPOLACIÓN LAGRANGE
